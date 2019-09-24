@@ -73,4 +73,7 @@ magnitud significativa. Para entuciasmar a los usuarios, creamos 2 mecanismos
 - **La censura**: Los usuarios que no corrijen usuarios por mas de una semana, 
     no podran opinar sin antes corregir a otro.
     
-*** 
+***
+
+**Iteracion 8**
+Las opiniones con audios no rinden. Eliminarlas.
