@@ -23,7 +23,7 @@ aleatoriamente.
 ***
 
 **Iteracion 3**
-Los usuarios pueden correjir las opiniones ajenas. Al ser correjidas, los usuarios
+Los usuarios pueden corregir las opiniones ajenas. Al ser corregidas, los usuarios
 son notificados de la correccion. _Las correciones no pueden ser correjidas_.
 
 ***
@@ -39,10 +39,16 @@ de poder leer opiniones de solo ciertos temas.
 
 ***
 
+**Iteracion 4b**
+Los usuarios pueden opinar con audios. Los audios pueden ser corregidos pero 
+unicamente mediante otro audio.
+
+***
+
 **Iteracion 5**
 Las correcciones sobre las opiniones tambien son ofrecidas en el feed, manteniendo
 el tag de la opinion corregida. Existe el derecho a replica, donde una correcion
-puede ser correjida.
+puede ser corregida.
 
 ***
 
@@ -51,7 +57,8 @@ Estamos teniendo muchos usuarios, y la popularidad trae consigo a _los malignos_
 Estos tipos son molestos por naturaleza, y estan creando bots que llenan de basura
 nuestra red. Para acabar con esto, se validaran los mails mediante un mail
 de confirmacion. Los usuarios existentes tambien recibiran el mail de confirmacion,
-y hasta que no confirmen su mail no podran operar en la red
+y hasta que no confirmen su mail no podran operar en la red. Al ingresar, se les 
+advierte de su situacion.
 
 ***
 
@@ -67,5 +74,3 @@ magnitud significativa. Para entuciasmar a los usuarios, creamos 2 mecanismos
     no podran opinar sin antes corregir a otro.
     
 *** 
-
-**Iteracion 8**
