@@ -1,0 +1,15 @@
+{
+  "name": "gronkata",
+  "version": "1.0.0",
+  "description": "Grunion Kata",
+  "main": "index.js",
+  "repository": "git@github.com:maldonadod/Gr-onKata.git",
+  "author": "Daniel Maldonado <daniel.maldonado@bluealba.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
